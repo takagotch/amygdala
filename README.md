@@ -88,6 +88,34 @@ store.on('change:users', function(){});
 ```
 
 ```
+{
+  "name": "Amygdala",
+  "main": "amygdala.js",
+  "version": "0.4.5",
+  "homepage": "htts://github.com/lincolnloop/amygdala",
+  "authors": [
+    "Macro Louro <marco@lincolnloop.com> (http://lincolnloop.com)"
+  ],
+  "description": "RESTful HTTP library for JavaScript powered webapplications",
+  "keywords": [
+    "REST",
+    "client",
+    "http",
+    "API",
+    "localStorage",
+    "store",
+    "bowerser",
+    "library",
+    "cahce",
+    "ajax",
+    "offline"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "q": ">=1.0.1",
+    "eventEmitter": ">=4.2.6"
+  }
+}
 ```
 
 ```
